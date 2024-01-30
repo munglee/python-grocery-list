@@ -1,0 +1,9 @@
+{
+    "Biscuits": "5pks",
+    "Cake": "10",
+    "Chocolate": "3pks",
+    "Coke": "1can",
+    "Milk": "1L",
+    "Pen": "3",
+    "Water": "2L"
+}
